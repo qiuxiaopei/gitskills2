@@ -1,7 +1,2 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 # gitskills3
-=======
-# gitskills2
->>>>>>> Stashed changes
-new dev new bug
+0b17112... fix 1013
